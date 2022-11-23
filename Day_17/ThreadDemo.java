@@ -1,3 +1,5 @@
+package Day_17;
+
 class even extends Thread {
    public void run() {
         try {
@@ -30,3 +32,4 @@ public class ThreadDemo {
         e.start();
         o.start();
     }
+}
