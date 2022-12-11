@@ -21,7 +21,7 @@ class Solution{
         ImplementedInterfaceNames(my_calculator);
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        System.out.print(my_calculator.divisor_sum(n) + "\n");
+        System.out.print(my_calculator.divisor_sum(n) + "\n"); 
       	sc.close();
     }
     
