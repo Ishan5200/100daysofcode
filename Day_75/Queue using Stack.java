@@ -1,6 +1,7 @@
 import java.util.Stack;
 
-public class QueueUsingStack {
+public class QueueUsingStack
+ {
   private Stack<Integer> first;
   private Stack<Integer> second;
 
