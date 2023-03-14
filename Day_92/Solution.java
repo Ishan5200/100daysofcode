@@ -29,7 +29,8 @@ The first character of the username must be an alphabetic character, i.e., eithe
 import java.io.*;
 import java.util.*;
 
-class UsernameValidator {
+class UsernameValidator 
+{
     /*
      * Write regular expression here.
      */
