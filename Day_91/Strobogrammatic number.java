@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Strobogrammatic {
+public class Strobogrammatic 
+{
     public static void main(String[] args) {
         int ld , res = 0, flag =0;
         Scanner sc = new Scanner(System.in);
