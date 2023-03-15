@@ -2,7 +2,8 @@
 Given an integer numRows, return the first numRows of Pascal's triangle.
 */
 
-class Solution {
+class Solution 
+{
     public List<List<Integer>> generate(int n) {
         List<List<Integer>> ans = new ArrayList<>();
         for(int i=0;i<n;i++)
