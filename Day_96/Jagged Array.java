@@ -1,5 +1,6 @@
 // Program to demonstrate 2-D jagged array in Java
-class Main {
+class Main 
+{
 	public static void main(String[] args)
 	{
 		// Declaring 2-D array with 2 rows
