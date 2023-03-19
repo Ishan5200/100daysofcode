@@ -1,5 +1,6 @@
 import java.util.*;
-class tempConverter{
+class tempConverter
+{
   static Scanner sc = new Scanner(System.in); // Scanner Class
   
   // Method to convert Celcius to Fahrenheit
