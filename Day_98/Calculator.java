@@ -4,7 +4,8 @@
 import java.awt.event.*;
 import javax.swing.*;
 import java.awt.*;
-class calculator extends JFrame implements ActionListener {
+class calculator extends JFrame implements ActionListener 
+{
 	// create a frame
 	static JFrame f;
 
