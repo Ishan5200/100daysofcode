@@ -1,7 +1,8 @@
 import java.text.SimpleDateFormat;  
 import java.text.ParseException;   
 import java.util.Date;   
-class DifferenceExample1 {     
+class DifferenceExample1 
+{     
     // Create function for finding difference   
     static void find(String join_date, String leave_date)   
     {   
